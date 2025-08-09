@@ -126,7 +126,6 @@ session.get(target_url, verify=False, timeout=10)  # Modifique o timeout
 - **Testes de penetração autorizados**
 - **Auditorias de segurança web**
 - **Pesquisa em segurança da informação**
-- **Testes de infraestrutura de cache**
 
 ## 🤝 Contribuições
 
@@ -137,10 +136,6 @@ Contribuições são bem-vindas! Para contribuir:
 3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## ⚡ Performance
 
